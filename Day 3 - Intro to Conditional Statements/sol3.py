@@ -10,5 +10,6 @@ if __name__ == '__main__':
     
     if N % 2 == 1 or N in range(6,21):
         print('Weird')
-    elif N > 20 or N in range(2,6):
+#    elif N > 20 or N in range(2,6):
+    else:
         print('Not Weird')
