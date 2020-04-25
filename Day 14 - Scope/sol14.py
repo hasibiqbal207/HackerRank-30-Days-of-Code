@@ -21,7 +21,6 @@ class Difference:
                 if diff > self.maximumDifference:
                     self.maximumDifference = diff
         
-
 # End of Difference class
 
 _ = input()
